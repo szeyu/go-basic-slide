@@ -24,7 +24,7 @@ layout: two-cols
 ::right::
 
 <div class="ml-4">
-  <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" class="h-60 rounded shadow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" class="h-60 rounded shadow" />
 </div>
 
 ---
